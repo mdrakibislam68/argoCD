@@ -1,0 +1,20 @@
+{"msg":"Neither old nor new backend is available. No events will be sent to the Garden Cloud API.","section":"","timestamp":"2025-07-31T13:58:58.794Z","level":"debug"}
+{"msg":"Initializing Garden context for local (none found for key)","section":"","timestamp":"2025-07-31T13:58:58.922Z","level":"verbose"}
+{"msg":"Instance key: env=local","section":"","timestamp":"2025-07-31T13:58:58.923Z","level":"debug"}
+{"msg":"Authorizing...","section":"garden-cloud              →","timestamp":"2025-07-31T13:58:58.945Z","level":"info"}
+{"msg":"Checking client auth token with Garden Cloud","section":"","timestamp":"2025-07-31T13:58:58.947Z","level":"debug"}
+{"msg":"Checked client auth token with Garden Cloud - valid: true","section":"","timestamp":"2025-07-31T13:58:59.640Z","level":"debug"}
+{"msg":"Starting refresh interval.","section":"garden-cloud              →","timestamp":"2025-07-31T13:58:59.641Z","level":"debug"}
+{"msg":"Will run refresh function every 4500 ms.","section":"garden-cloud              →","timestamp":"2025-07-31T13:58:59.641Z","level":"debug"}
+{"msg":"Successfully authorized (took 0.7 sec)","section":"garden-cloud              →","timestamp":"2025-07-31T13:58:59.641Z","level":"info"}
+{"msg":"Garden context updated for key env=local","section":"","timestamp":"2025-07-31T13:58:59.654Z","level":"debug"}
+{"msg":"Scanning project root at /home/rakib/boomdevs/kubernetes/argoCD/k8s-kind-voting-app\n  → Includes: **/*garden.y*ml\n  → Excludes: .garden/**/*,.git,.gitmodules,.garden/**/*,debug-info*/**","section":"git                       →","timestamp":"2025-07-31T13:58:59.657Z","level":"verbose"}
+{"msg":"Found 1 files in project root /home/rakib/boomdevs/kubernetes/argoCD/k8s-kind-voting-app (took 0.02 sec)","section":"git                       →","timestamp":"2025-07-31T13:58:59.681Z","level":"verbose"}
+{"msg":"Scanned and found 0 actions, 0 workflows and 0 modules","section":"","timestamp":"2025-07-31T13:58:59.683Z","level":"debug"}
+{"msg":"Watcher: Initializing","section":"","timestamp":"2025-07-31T13:58:59.684Z","level":"debug"}
+{"msg":"Watcher: Starting FSWatcher","section":"","timestamp":"2025-07-31T13:58:59.684Z","level":"debug"}
+{"msg":"Watcher: Add 1 paths","section":"","timestamp":"2025-07-31T13:58:59.684Z","level":"debug"}
+{"msg":"Watcher: Ready","section":"","timestamp":"2025-07-31T13:58:59.687Z","level":"debug"}
+{"msg":"Garden server has successfully started at port 9778","section":"","timestamp":"2025-07-31T13:58:59.694Z","level":"info"}
+{"msg":"Cleaning up 1 paths from watcher","section":"","timestamp":"2025-07-31T13:58:59.700Z","level":"debug"}
+{"msg":"Saved client auth token to config store","section":"garden-cloud              →","timestamp":"2025-07-31T15:58:11.570Z","level":"debug"}

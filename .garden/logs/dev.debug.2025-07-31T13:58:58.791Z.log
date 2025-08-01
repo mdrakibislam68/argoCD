@@ -1,0 +1,42 @@
+
+[2025-07-31T13:58:58.796Z] [debug] Neither old nor new backend is available. No events will be sent to the Garden Cloud API.
+
+[2025-07-31T13:58:58.922Z] [verbose] Initializing Garden context for local (none found for key)
+
+[2025-07-31T13:58:58.923Z] [debug] Instance key: env=local
+
+[2025-07-31T13:58:58.946Z] Authorizing...
+
+[2025-07-31T13:58:58.947Z] [debug] Checking client auth token with Garden Cloud
+
+[2025-07-31T13:58:59.640Z] [debug] Checked client auth token with Garden Cloud - valid: true
+
+[2025-07-31T13:58:59.641Z] [debug] Starting refresh interval.
+
+[2025-07-31T13:58:59.641Z] [debug] Will run refresh function every 4500 ms.
+
+[2025-07-31T13:58:59.642Z] Successfully authorized (took 0.7 sec)
+
+[2025-07-31T13:58:59.654Z] [debug] Garden context updated for key env=local
+
+[2025-07-31T13:58:59.657Z] [verbose] Scanning project root at /home/rakib/boomdevs/kubernetes/argoCD/k8s-kind-voting-app
+  → Includes: **/*garden.y*ml
+  → Excludes: .garden/**/*,.git,.gitmodules,.garden/**/*,debug-info*/**
+
+[2025-07-31T13:58:59.681Z] [verbose] Found 1 files in project root /home/rakib/boomdevs/kubernetes/argoCD/k8s-kind-voting-app (took 0.02 sec)
+
+[2025-07-31T13:58:59.683Z] [debug] Scanned and found 0 actions, 0 workflows and 0 modules
+
+[2025-07-31T13:58:59.684Z] [debug] Watcher: Initializing
+
+[2025-07-31T13:58:59.684Z] [debug] Watcher: Starting FSWatcher
+
+[2025-07-31T13:58:59.684Z] [debug] Watcher: Add 1 paths
+
+[2025-07-31T13:58:59.687Z] [debug] Watcher: Ready
+
+[2025-07-31T13:58:59.694Z] Garden server has successfully started at port 9778
+
+[2025-07-31T13:58:59.700Z] [debug] Cleaning up 1 paths from watcher
+
+[2025-07-31T15:58:11.570Z] [debug] Saved client auth token to config store

@@ -1,0 +1,10 @@
+# At the root of your project
+apiVersion: garden.io/v2
+kind: Project
+name: my-project
+organizationId: 8544f632-f766-4b90-8dac-6ad23b2e6014
+
+environments:
+  # <--- Every Garden project has one more environments
+  - name: local
+  - name: ci

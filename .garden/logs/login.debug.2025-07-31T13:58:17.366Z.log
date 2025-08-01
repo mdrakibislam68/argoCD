@@ -1,0 +1,28 @@
+
+[2025-07-31T13:58:17.371Z] [debug] Neither old nor new backend is available. No events will be sent to the Garden Cloud API.
+
+[2025-07-31T13:58:17.398Z] Logging in to https://app.garden.io...
+
+[2025-07-31T13:58:17.399Z] [debug] Redirecting to https://app.garden.io login page...
+
+[2025-07-31T13:58:26.569Z] [debug] Received client auth token
+
+[2025-07-31T13:58:26.570Z] [debug] Received client auth token.
+
+[2025-07-31T13:58:26.572Z] [debug] Shutting down redirect server...
+
+[2025-07-31T13:58:26.579Z] [debug] Saved client auth token to config store
+
+[2025-07-31T13:58:26.580Z] 
+Successfully logged in to https://app.garden.io.
+
+
+[2025-07-31T13:58:26.586Z] Successfully connected your Garden Project with Garden Cloud!
+
+Your project configuration on disk has been updated to include the organizationId that identifies your project with Garden Cloud.
+
+Make sure to commit the updated project.garden.yml to source control.
+
+[2025-07-31T13:58:26.638Z] [debug] Watcher: Initializing
+
+[2025-07-31T13:58:26.638Z] [debug] Watcher: Starting FSWatcher

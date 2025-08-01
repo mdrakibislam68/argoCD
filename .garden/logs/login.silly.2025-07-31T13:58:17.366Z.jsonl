@@ -1,0 +1,11 @@
+{"msg":"Neither old nor new backend is available. No events will be sent to the Garden Cloud API.","section":"","timestamp":"2025-07-31T13:58:17.369Z","level":"debug"}
+{"msg":"Logging in to https://app.garden.io...","section":"","timestamp":"2025-07-31T13:58:17.398Z","level":"info"}
+{"msg":"Redirecting to https://app.garden.io login page...","section":"","timestamp":"2025-07-31T13:58:17.399Z","level":"debug"}
+{"msg":"Received client auth token","section":"","timestamp":"2025-07-31T13:58:26.569Z","level":"debug"}
+{"msg":"Received client auth token.","section":"","timestamp":"2025-07-31T13:58:26.569Z","level":"debug"}
+{"msg":"Shutting down redirect server...","section":"","timestamp":"2025-07-31T13:58:26.572Z","level":"debug"}
+{"msg":"Saved client auth token to config store","section":"","timestamp":"2025-07-31T13:58:26.579Z","level":"debug"}
+{"msg":"Successfully logged in to https://app.garden.io.","section":"","timestamp":"2025-07-31T13:58:26.579Z","level":"info"}
+{"msg":"Successfully connected your Garden Project with Garden Cloud!\n\nYour project configuration on disk has been updated to include the organizationId that identifies your project with Garden Cloud.\n\nMake sure to commit the updated project.garden.yml to source control.","section":"","timestamp":"2025-07-31T13:58:26.586Z","level":"info"}
+{"msg":"Watcher: Initializing","section":"","timestamp":"2025-07-31T13:58:26.638Z","level":"debug"}
+{"msg":"Watcher: Starting FSWatcher","section":"","timestamp":"2025-07-31T13:58:26.638Z","level":"debug"}

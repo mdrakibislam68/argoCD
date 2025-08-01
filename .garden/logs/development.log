@@ -1,0 +1,18 @@
+
+[2025-07-31T13:58:17.399Z] Logging in to https://app.garden.io...
+
+[2025-07-31T13:58:26.580Z] 
+Successfully logged in to https://app.garden.io.
+
+
+[2025-07-31T13:58:26.586Z] Successfully connected your Garden Project with Garden Cloud!
+
+Your project configuration on disk has been updated to include the organizationId that identifies your project with Garden Cloud.
+
+Make sure to commit the updated project.garden.yml to source control.
+
+[2025-07-31T13:58:58.946Z] Authorizing...
+
+[2025-07-31T13:58:59.642Z] Successfully authorized (took 0.7 sec)
+
+[2025-07-31T13:58:59.694Z] Garden server has successfully started at port 9778
